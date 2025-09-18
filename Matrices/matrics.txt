@@ -1,0 +1,28 @@
+# MATRICES - Desi Style Notes
+
+## 1. Matrix Basics
+Matrix = rectangular array of numbers  
+Order = rows × columns  
+Example: A = [[1,2,3],[4,5,6]]  # 2x3
+
+## 2. Types of Matrices
+- Row matrix: [1,2,3]
+- Column matrix: [[1],[2],[3]]
+- Square matrix: 2x2,3x3
+- Zero matrix: all 0
+- Diagonal matrix: only diagonal numbers
+- Identity matrix: diagonal 1, rest 0
+
+## 3. Operations
+### 3.1 Addition
+A + B = element-wise add
+### 3.2 Subtraction
+A - B = element-wise subtract
+### 3.3 Scalar Multiplication
+### 3.4 Matrix Multiplication
+
+## 4. Desi Tips
+- Addition/Subtraction = element-wise handshake 😎
+- Scalar = masala + sabzi 🍲
+- Multiplication = row-column handshake 🤝
+
