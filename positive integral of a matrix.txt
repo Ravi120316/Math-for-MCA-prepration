@@ -1,0 +1,25 @@
+# POSITIVE INTEGRAL OF A MATRIX – Desi Style Notes
+
+## Definition
+A matrix A is called a **Positive Integral Matrix** if:
+1. All elements are **positive integers**
+2. Order = rows × columns is fixed
+
+Example:
+A=[[1,2],[3,4]]  # All elements positive integers, 2x2 order => ✅
+
+## Rules / Properties
+- All elements > 0
+- All elements integers only
+- Addition/Subtraction: result positive integral if elements remain positive
+- Multiplication: result positive integral if all elements remain positive
+
+## Examples
+1. A=[[1,2],[3,4]] ✅
+2. B=[[0,5],[7,3]] ❌ (0 not allowed)
+3. C=[[-1,2],[3,4]] ❌ (negative not allowed)
+4. D=[[1.5,2],[3,4]] ❌ (fraction not allowed)
+
+## Desi Tip
+"Desi ladoo box" 🍬 → sab ladoo positive integer, no zero/negative/fraction
+
